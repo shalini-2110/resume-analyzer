@@ -2,7 +2,7 @@
 
 A web app that compares a resume with a job description using NLP and shows a match score, skill gaps and resume section checks.
 
-**Live Demo:** PASTE_YOUR_STREAMLIT_LINK_HERE
+**Live Demo:**     https://resume-analyzer-trergzk2dzeh7g7hjxvcdv.streamlit.app/
 
 ## Features
 - PDF resume text extraction
